@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9993321-c9a4-4909-8cd0-7f722d5a6d0e" name="Changes" comment="" />
+    <list default="true" id="f9993321-c9a4-4909-8cd0-7f722d5a6d0e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/wk Mock exam/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk Mock exam/Train.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk Mock exam/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk Mock exam/VehicleCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk Mock exam/VehicleSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam for 5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/exam for 5.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -20,9 +29,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2q69sRJ6yI7zi72b6d99gl0Tjnh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -34,7 +43,7 @@
     "Application.D4.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
