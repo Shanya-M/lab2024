@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9993321-c9a4-4909-8cd0-7f722d5a6d0e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wk 7 List Stacks and queues/D6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wk 7 List Stacks and queues/NameManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wk 7 List Stacks and queues/NumberSorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wk 7 List Stacks and queues/p7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam for 5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 1 Intro/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 1 Intro/D1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 1 Intro/Ellipse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 1 Intro/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 1 Intro/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 1 Intro/p1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 10 Function style/D10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 10 Function style/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 10 Function style/p3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 2 Interfaces/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 2 Interfaces/D2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 2 Interfaces/L2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 2 Interfaces/P2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 2 Interfaces/WordProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 3 Documentation and structure/D3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 3 Documentation and structure/Stats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 3 Documentation and structure/p3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 4 Exceptional Handling/ArrayProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 4 Exceptional Handling/D4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 4 Exceptional Handling/InvalidOptionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 4 Exceptional Handling/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 4 Exceptional Handling/p4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 5 Junit/TriangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 5 Junit/p5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 8 Set and Maps/D8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 8 Set and Maps/EmailStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 8 Set and Maps/WordCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 8 Set and Maps/p8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 9 Search and sorting/Census.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 9 Search and sorting/Complexity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 9 Search and sorting/D9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 9 Search and sorting/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wk 9 Search and sorting/p9" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2q69sRJ6yI7zi72b6d99gl0Tjnh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.D4.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="D4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D4" />
+      <module name="exam for 5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.D4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9993321-c9a4-4909-8cd0-7f722d5a6d0e" name="Changes" comment="" />
+      <created>1733972363706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733972363706</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/wk 9 Search and sorting/Complexity.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

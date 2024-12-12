@@ -1,0 +1,50 @@
+Exceptions – handling and writing
+ Programming Projects:
+ 1) ArrayCounter class
+ • Start Eclipse and create a new Java project called ‘exc_lab’
+ • Create class called ArrayProcessor
+ • Add a method with the following signature
+int getArrayLength(Object [] a)
+ • Now implement this method, so that it returns the size of the
+array. However rather than simply using a.length use a loop
+which iterates over each element until an exception is thrown.
+ • Deal with that exception within the method, and use this as
+the loop terminator.
+ • Start with this code
+int count = 0;
+ while (true) {
+ Object t
+ count++;
+ }
+ = a[count];
+ • Write a Driver class which creates an instance of
+ArrayProcessor then calls the getArrayLength() in order to
+test. e.g.
+ ArrayProcessor ap = new ArrayProcessor();
+ int len = ap.getArrayLength(new String[] {"one", "two", "three"});
+ System.out.println(“Array length is “ +len);
+ • Why would writing such code not be an appropriate use of the
+exception handling mechanism?
+2) Menu and InvalidOption exceptions
+ • Create class called Menu, but do not add any methods.
+ • Now create a class called InvalidOptionException which
+‘extends’ the Exception class.
+ • Within the Menu class add a method which allows a selected
+menu option to be displayed, the signature should be
+void displayMenuOption(int opt) throws InvalidOptionException;
+ • Implement the method so it accepts options 1 to 3 only, and
+outputs a message such as “Menu option 1 selected”.
+ • If the passed opt parameter is outside the accepted range then
+update the method so that it throws an InvalidOptionException
+ • Extend the Driver class from question 1, so that it creates an
+instance of the Menu class and does several calls to the
+displayMenuOption() method, testing both valid and invalid opt
+values.
+ • Ensure the Driver class correctly catches the exception which
+is thrown from the displayMenuOption() method, and outputs a
+message reporting the invalid option.
+ Think you’re finished?  Check you have commented your code and added
+Javadoc to the methods and classes. Also try to improve the
+InvalidOptionException class so that it allows a message to be
+included when it is thrown. Then use this message within the Driver
+class to report the problem.

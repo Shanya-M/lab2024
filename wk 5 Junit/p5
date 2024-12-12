@@ -1,0 +1,26 @@
+Programming Projects:
+ 1) Testing a ‘simple’ Class
+  Start Eclipse and create a new Java project called ‘lab4’
+  Download the associated Triangle.java file (also shown below)
+  Add the file to the project you have created.
+  Create a separate JUnit5 test class and write individual tests
+for all the methods of the Triangle.java class, including the
+constructors. Give each test method a sensible name.
+  Execute the tests to see whether they all pass.
+  Your tests should reveal at least two bugs in the code. Fix
+these so all your tests pass.
+  Try to improve the tests by including some @RepeatedTest and
+@ParameterizedTest methods to check multiple parameter values.
+ Look again at the test for the setSides(int length, int other)
+method. Can you write a test which shows the associated
+comment to be inaccurate in some cases?
+  Run the tests again using the “Coverage As” option from within
+the Eclipse IDE, to ensure all methods have been exhaustedly
+tested. i.e. have all possible branches of the isIsosceles(),
+isEquilateral() and isScalene() been tested?
+  Do your tests check what happens if negative length values are
+passed to the constructors and methods? If not add these as
+additional tests.
+  Can you write a test that causes the (working version) of the
+int getPerimeter() method to fail? If so can you suggest a way
+to change the method so it will no longer fail

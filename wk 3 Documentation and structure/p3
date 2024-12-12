@@ -1,0 +1,22 @@
+Programming Projects:
+ 1) Improving Code
+  Start Eclipse and create a new Java project called ‘lab3’
+  Download the associated Stats.java and Driver.java files (also
+shown below)
+  Add those two files to the project you have created, and
+ensure you can execute the driver class. (output should be
+shown in the console).
+  Examine the program code, and improve it by doing the
+following
+1. Correct the indentation of both the Stats.java and
+Driver.java class.
+ 2. Add Javadoc comments to the classes, attributes and methods
+(remember to include @param and @return information).
+ 3. Add single line comments within the methods that have
+anything other than a trivial line of code.
+ 4. Ensure the ‘public’ and ‘private’ modifiers are included
+where appropriate.
+ 5. Change the names of any methods within the Stats.java class
+which would make the purpose of the operation clearer
+ 6. Change the names of any variables that would make the code
+easier to understand.
