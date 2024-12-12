@@ -86,5 +86,19 @@ public class Car extends Vehicle {
         this.range = 100;  // Default range
         this.tankSize = 0; // Default to electric car (tankSize of 0)
     }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (this == obj) return true;
+        if (obj == null || getClass() != obj.getClass()) return false;
+        Car car = (Car) obj;
+        return regNo.equals(car.regNo); // Assuming regNo is unique
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(regNo); // Assuming regNo is unique
+    }
+
 }
 

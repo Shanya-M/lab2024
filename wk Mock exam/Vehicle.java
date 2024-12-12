@@ -72,4 +72,18 @@ public abstract class Vehicle {
         this.model = model;
         this.regNo = regNo;
     }
+
+
+    @Override
+    public boolean equals(Object obj) {
+        if (this == obj) return true;
+        if (obj == null || getClass() != obj.getClass()) return false;
+        Vehicle vehicle = (Vehicle) obj;
+        return regNo.equals(vehicle.regNo); // Assuming regNo is unique for each vehicle
+    }
+
+    @Override
+    public int hashCode() {
+        return regNo.hashCode(); // Hash based on regNo to ensure uniqueness
+    }
 }

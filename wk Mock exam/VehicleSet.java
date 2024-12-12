@@ -18,6 +18,19 @@ public class  VehicleSet implements VehicleCollection {
     ///////////////////////////////////////////////////////////////////////
 
     @Override
+    public boolean equals(Object obj) {
+        if (this == obj) return true;
+        if (obj == null || getClass() != obj.getClass()) return false;
+        Vehicle vehicle = (Vehicle) obj;
+        return regNo.equals(vehicle.regNo); // Assuming regNo is the unique identifier
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(regNo); // Assuming regNo is the unique identifier
+    }
+
+    @Override
     public int addVehicle(Vehicle vehicle) {
         if (vehicle == null) {
             return vehicles.size();  // If the vehicle is null, don't add and return the current size.
